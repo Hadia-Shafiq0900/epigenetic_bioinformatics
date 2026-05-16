@@ -294,4 +294,3 @@ Estimated runtime: 10–25 min in Colab depending on download speed. Peak RAM: ~
 
 3. Horvath, S. (2013). DNA methylation age of human tissues and cell types. *Genome Biology* 14: R115. https://doi.org/10.1186/gb-2013-14-10
 
-### Pipeline Walkthrough
